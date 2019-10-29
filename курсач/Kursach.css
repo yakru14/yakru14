@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS DOCUMENT */
+body{ margin:0 auto; font-family:Verdana, Geneva, sans-serif; font-size: 14px;}
+.top-line{background:#6FB84A; width:100%;}
+.kontakt{width:960px; margin:0 auto; color:#FFF; padding-top:7px; padding-bottom:7px;}
+.kontakt a{text-decoration: none; color:#ADD8E6}
+.nav-top{width:960px; margin:0 auto; padding-top:20px;}
+.logo{width:300px; float: left;}
+.menu-top{width:700px; float:center; padding-top:20px;}
+#menu-top ul{list-style-type:none;}
+#menu-top li{float:left; margin-left:10px; margin-right: 10px; font-size: 18px}
+#menu-top li a{color:#6FB84A; text-decoration:none;}
+.top-img{ width: 960px; margin:0 auto; height: 560px; margin-top:130px;background: url(pizza.jpg) no-repeat top right}
+#zag-top{color:#006400; font-size: 35px; margin-left:50px;}
+.content{width: 960px; height: auto; margin: 0 auto; margin-top: 50px;}
+#zag-content{text-align: center; color:#6FB84A;}
+#pizza{display: block; width:400px; float: left; border:0px;text-align: center; margin-top: 100px; margin-right: 75px}
+.brown{width: 100%; background:#A06238 repeat-x top; height:320px; margin-top: 1570px}
+.content-brown{width: 33%; float: left; border: 0px; margin-top: 25px}
+.brown-zag{color:#6FB84A; font-size:22px; font-weight: bold;}
+.content-brown #menu-top li{color:#6FB84A; float: none; font-size: 18px; margin-left: -80px;}
+.content-brown a{text-decoration: none; color:#ADD8E6}
+.content-brown p{color:#6FB84A; font-size: 18px}
